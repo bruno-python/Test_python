@@ -1,0 +1,19 @@
+le beau est préférable au laid
+l'explicite est préférable à l'implicite
+le simple est préférable au complexe
+le complexe est préférable au compliqué
+le plat est préférable à l'imbriqué.
+l'aéré est préférable au compact
+la lisibilité compte
+les cas particuliers ne sont pas suffisamment particuliers pour casser la règle
+même si l'aspect pratique doit prendre le pas sur la pureté.
+les erreurs ne devraient jamais passer silencieusement
+à moins qu'elles n'aient été explicitement réduites au silence
+en cas d'ambiguïté, résistez à la tentation de deviner
+il devrait exister une (et de préférence une seule) manière évidente de procéder
+même si cette manière n'est pas forcément évidente au premier abord
+maintenant est préférable à jamais
+mais jamais est parfois préférable à immédiatement
+si la mise en œuvre est difficile à expliquer, c'est une mauvaise idée
+si la mise en œuvre est facile à expliquer, ce peut être une bonne idée
+les espaces de noms sont une très bonne idée (faisons-en plus !).
